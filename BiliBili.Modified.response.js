@@ -5,7 +5,7 @@ const DataBase = {
 		"Settings":{
 			"Switch":true,
 			"Skin":{
-				"user_equip":2529,
+				"user_equip":2530,
 				"load_equip":2531
 			},
 			"Private":{
